@@ -19,3 +19,8 @@
 
 **Today's Progress**: Solved a Question on Geeks for Geeks
 **Thoughts:** Will Solve atleast a Question each day
+
+### Day 5: May 22,2020
+
+**Today's Progress**: Solved a Question on Geeks for Geeks and tried the DP problem on codechef
+**Thoughts:** Will Solve atleast a Question each day
