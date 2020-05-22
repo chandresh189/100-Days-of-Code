@@ -24,3 +24,8 @@
 
 **Today's Progress**: Solved a Question on Geeks for Geeks and tried the DP problem on codechef
 **Thoughts:** Will Solve atleast a Question each day
+
+### Day 6: May 23,2020
+
+**Today's Progress**: Solved array Question on Geeks for Geeks sort 0,1,2 array
+**Thoughts:** Array section on Geeks for Geeks
