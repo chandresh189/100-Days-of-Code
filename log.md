@@ -29,3 +29,13 @@
 
 **Today's Progress**: Solved array Question on Geeks for Geeks sort 0,1,2 array
 **Thoughts:** Array section on Geeks for Geeks
+
+### Day 7: May 24,2020
+
+**Today's Progress**: Solved array Question on Geeks for Geeks
+**Thoughts:** Array section on Geeks for Geeks
+
+### Day 8: May 25,2020
+
+**Today's Progress**: Created a Shopping Site using HTML and CSS 
+**Thoughts:** Web Development is also necessary
