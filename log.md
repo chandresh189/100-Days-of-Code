@@ -39,3 +39,18 @@
 
 **Today's Progress**: Created a Shopping Site using HTML and CSS 
 **Thoughts:** Web Development is also necessary
+
+### Day 9: May 26,2020
+
+**Today's Progress**: Equilibrium question on gfg 
+**Thoughts:** array questions are important
+
+### Day 10: May 27,2020
+
+**Today's Progress**: Improved Shopping site
+**Thoughts:** Web Development is also necessary
+
+### Day 11: May 28,2020
+
+**Today's Progress**: Learned about Fenwick tree
+**Thoughts:** basics of tree data structure
