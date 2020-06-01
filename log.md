@@ -54,3 +54,23 @@
 
 **Today's Progress**: Learned about Fenwick tree
 **Thoughts:** basics of tree data structure
+
+### Day 12: May 29,2020
+
+**Today's Progress**: 
+**Thoughts:**
+
+### Day 13: May 30,2020
+
+**Today's Progress**:
+**Thoughts:**
+
+### Day 14: May 31,2020
+
+**Today's Progress**:
+**Thoughts:**
+
+### Day 15: June 1,2020
+
+**Today's Progress**:
+**Thoughts:**
