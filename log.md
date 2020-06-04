@@ -57,20 +57,20 @@
 
 ### Day 12: May 29,2020
 
-**Today's Progress**: 
-**Thoughts:**
+**Today's Progress**: Questions on GFG
+**Thoughts:** Trying to make consistency
 
 ### Day 13: May 30,2020
 
-**Today's Progress**:
-**Thoughts:**
+**Today's Progress**: Revised Stack
+**Thoughts:** Data structures
 
 ### Day 14: May 31,2020
 
-**Today's Progress**:
-**Thoughts:**
+**Today's Progress**: Questions on GFG
+**Thoughts:** Trying to make consistency
 
 ### Day 15: June 1,2020
 
-**Today's Progress**:
-**Thoughts:**
+**Today's Progress**: Revised Queue
+**Thoughts:** Data structures
