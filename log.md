@@ -74,3 +74,28 @@
 
 **Today's Progress**: Revised Queue
 **Thoughts:** Data structures
+
+### Day 16: June 2,2020
+
+**Today's Progress**: binary tree traversal
+**Thoughts:** Data structures
+
+### Day 16: June 3,2020
+
+**Today's Progress**: GFG Questions
+**Thoughts:** GFG
+
+### Day 17: June 4,2020
+
+**Today's Progress**: 
+**Thoughts:** 
+
+### Day 18: June 5,2020
+
+**Today's Progress**: Revised Queue
+**Thoughts:** Data structures
+
+### Day 19: June 6,2020
+
+**Today's Progress**: Codechef long 3 questions solved
+**Thoughts:** competitive coding
