@@ -87,8 +87,8 @@
 
 ### Day 17: June 4,2020
 
-**Today's Progress**: 
-**Thoughts:** 
+**Today's Progress**: Codechef Long challenge
+**Thoughts:** Competitive
 
 ### Day 18: June 5,2020
 
@@ -97,5 +97,17 @@
 
 ### Day 19: June 6,2020
 
+**Today's Progress**: Codechef long 2 questions solved
+**Thoughts:** competitive coding
+### Day 20: June 7,2020
+
 **Today's Progress**: Codechef long 3 questions solved
+**Thoughts:** competitive coding
+### Day 21: June 8,2020
+
+**Today's Progress**: DP on Coding Blocks
+**Thoughts:** Learning
+### Day 22: June 9,2020
+
+**Today's Progress**: Codechef long 5 questions solved
 **Thoughts:** competitive coding
