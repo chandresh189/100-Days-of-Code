@@ -99,10 +99,12 @@
 
 **Today's Progress**: Codechef long 2 questions solved
 **Thoughts:** competitive coding
+
 ### Day 20: June 7,2020
 
 **Today's Progress**: Codechef long 3 questions solved
 **Thoughts:** competitive coding
+
 ### Day 21: June 8,2020
 
 **Today's Progress**: DP on Coding Blocks
@@ -111,3 +113,33 @@
 
 **Today's Progress**: Codechef long 5 questions solved
 **Thoughts:** competitive coding
+
+### Day 23: June 10,2020
+
+**Today's Progress**: Working on Django
+**Thoughts:** Webapp
+
+### Day 24: June 11,2020
+
+**Today's Progress**: Working on Django
+**Thoughts:** WebApp
+
+### Day 23: June 12,2020
+
+**Today's Progress**: Working on Django
+**Thoughts:** Webapp
+
+### Day 24: June 13,2020
+
+**Today's Progress**: Codechef Decodeathon- Solced 2 questions
+**Thoughts:** Compete
+
+### Day 25: June 14,2020
+
+**Today's Progress**: AVL Tree
+**Thoughts:** Data Structures
+
+### Day 26: June 15,2020
+
+**Today's Progress**: Creation and Insertion in AVL Tree
+**Thoughts:** Data Structures
