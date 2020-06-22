@@ -143,3 +143,33 @@
 
 **Today's Progress**: Creation and Insertion in AVL Tree
 **Thoughts:** Data Structures
+
+### Day 27: June 16,2020
+
+**Today's Progress**: Tree from inorder,preorder,postorder
+**Thoughts:** Data Structures
+
+### Day 28: June 17,2020
+
+**Today's Progress**: GFG Question
+**Thoughts:** Practice
+
+### Day 29: June 18,2020
+
+**Today's Progress**: Heap Data structure
+**Thoughts:** Data Structures
+
+### Day 30: June 19,2020
+
+**Today's Progress**: Heap Sort
+**Thoughts:** Data Structures
+
+### Day 31: June 20,2020
+
+**Today's Progress**: MAX Heap to MIN Heap
+**Thoughts:** Data Structures
+
+### Day 32: June 21,2020
+
+**Today's Progress**: Sets
+**Thoughts:** STL
